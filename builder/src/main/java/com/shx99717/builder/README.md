@@ -1,0 +1,1 @@
+- Builder pattern helps us in creating `immutable classes` with large set of state attributes
